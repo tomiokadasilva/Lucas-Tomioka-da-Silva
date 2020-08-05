@@ -9,7 +9,7 @@ I'm a developer in training :computer:
  <br/> :purple_heart:   &nbsp; Seeking to collaborate with Front-end projects using React
  <br/> :blush:          &nbsp; I can help you with CSS Grid Layout and Flexbox
  <br/> :computer:       &nbsp; My Stack: ReactJS & Node.js
- <br/> :speech_balloon: &nbsp; About me: I like technologies, games, CS: GO, Valorant, movies, books and series on Netflix
+ <br/> :speech_balloon: &nbsp; About me: I like Rockets, AI, VR, fitness, adventure, RTS and looter games (Specially Diablo and Age of empires series), mafia movies, hard sci-fi books and Netflix Documentaries.
  <br/> :email:          &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-LucasTomioka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-tomioka-048772157//)](https://www.linkedin.com/in/lucas-tomioka-048772157/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-lucastomioka1910@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucastomioka1910@gmail.com)](mailto:lucastomioka1910@gmail.com)
