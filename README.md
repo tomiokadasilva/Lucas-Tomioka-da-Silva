@@ -11,7 +11,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Programador em formação :computer:
 
 Estou trabalhando na RSPBlue como desenvolvedor junior
- :rocket:  &nbsp; Estou Realizando o Curso CS50 da Harvard conjuntamente à Next Level Week 2 da **Rocketseat**
+ <br/> :rocket:  &nbsp; Estou Realizando o Curso CS50 da Harvard conjuntamente à Next Level Week 2 da **Rocketseat**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS & Node.js
