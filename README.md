@@ -1,9 +1,3 @@
-
-- Seus contatos. (Email, LinkedIn, Blog...)
-- Em que você procura colaborar
-- Com o que você pode ajudar quem estiver precisando
-- Como entrar com contato com você
-
 # Lucas Tomioka
 
 ## Olá pessoal 👋
