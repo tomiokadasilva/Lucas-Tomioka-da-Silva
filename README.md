@@ -18,4 +18,4 @@ Estou trabalhando na RSPBlue como desenvolvedor junior
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, CS:GO, Valorant, filmes, livros e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasTomioka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-tomioka-048772157//)](https://www.linkedin.com/in/lucas-tomioka-048772157/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lucastomioka1910@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
