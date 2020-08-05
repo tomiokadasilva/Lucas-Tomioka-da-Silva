@@ -2,7 +2,7 @@
 
 ## Hey there folks! 👋
 I am passionate about solving problems using technology. Real enthusiast about AI and VR Tech.
-I'm a developer in training :computer:
+I'm a developer in formation :computer:
 
  <br/> :office:         &nbsp; I'm working at RSPBlue as a junior developer
  <br/> :rocket:         &nbsp; I'm Taking Harvard's CS50 Course in conjunction with Next Level Week 2 at **Rocketseat**
