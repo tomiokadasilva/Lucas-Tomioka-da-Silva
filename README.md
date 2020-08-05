@@ -1,19 +1,8 @@
-# Lucas-Tomioka-da-Silva
-Minha Apresentação
 
-
-
-- Uma breve apresentação sobre você
 - Seus contatos. (Email, LinkedIn, Blog...)
-- Aonde você trabalha atualmente
-- O que você está estudando
 - Em que você procura colaborar
 - Com o que você pode ajudar quem estiver precisando
 - Como entrar com contato com você
-
-
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 
 # Lucas Tomioka
 
