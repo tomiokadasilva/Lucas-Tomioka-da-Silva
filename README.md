@@ -1,7 +1,7 @@
 # Lucas Tomioka
 
 ## Hey there folks! 👋
-I am passionate about solving problems using programming.
+I am passionate about solving problems using technology. Real enthusiast about AI and VR Tech.
 I'm a developer in training :computer:
 
  <br/> :office:         &nbsp; I'm working at RSPBlue as a junior developer
