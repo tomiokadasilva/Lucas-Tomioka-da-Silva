@@ -4,8 +4,8 @@
 I am passionate about solving problems using technology. Real enthusiast about AI and VR Tech.
 Developer in formation :computer:
 
- <br/> :office:         &nbsp; I'm working at Kiwify as a Customer Success Specialist
- <br/> :rocket:         &nbsp; I'm Taking **Harvard's CS50** Course in conjunction with Next Level Week 2 at **Rocketseat**
+ <br/> :office:         &nbsp; I'm currently open for work involving software development
+ <br/> :rocket:         &nbsp; I'm Taking **Harvard's CS50** Course in conjunction with Data Science Bacharelor's degree over UNIVESP
  <br/> :purple_heart:   &nbsp; Seeking to collaborate with Front-end projects using React
  <br/> :blush:          &nbsp; I can help you with CSS Grid Layout and Flexbox
  <br/> :computer:       &nbsp; My Stack: ReactJS & Node.js
